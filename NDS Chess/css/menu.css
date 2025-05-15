@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.menu {
+    font-size: 75px;
+    margin: 20px 20px;
+    background-color: #212121;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgb(175, 175, 175);
+    padding: 40px;
+    width: 200;
+    text-align: center;
+
+    h1 {
+    font-size: 50px;
+    color: rgb(175, 175, 175);
+    margin: 0;
+    }
+    
+    p {
+    color: #fff;
+    font-size: 16px;
+    }   
+}
